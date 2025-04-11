@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sevcikma
 - 👀 I’m interested in computational fluid dynamics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
